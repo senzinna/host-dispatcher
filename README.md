@@ -2,7 +2,7 @@
 The purpose of this project was to write a four-level priority process dispatcher operating within the
 constraints of finite available memory and I/O resources.
 
-## Date Complted
+## Date Completed
 Fall 2013 - University of South Florida
 
 ## Project Requirements
